@@ -14,15 +14,15 @@ Overall, this code demonstrates how to implement a basic calculator using JavaSc
 
 This code utilizes various JavaScript techniques to implement a simple calculator, including:
 
-DOM manipulation: selecting HTML elements and updating their content based on user input
+- DOM manipulation: selecting HTML elements and updating their content based on user input
 
-Event listeners: capturing user input and performing corresponding actions
+- Event listeners: capturing user input and performing corresponding actions
 
-Functions: handling different aspects of calculator functionality, making the code more modular and organized
+- Functions: handling different aspects of calculator functionality, making the code more modular and organized
 
-Variables: storing and manipulating data to keep track of the calculator's state and perform operations on it
+- Variables: storing and manipulating data to keep track of the calculator's state and perform operations on it
 
-Conditional statements: performing different actions based on the current state of the calculator
+- Conditional statements: performing different actions based on the current state of the calculator
 
-Math functions: converting strings to numbers and rounding results to three decimal places.
+- Math functions: converting strings to numbers and rounding results to three decimal places.
 
