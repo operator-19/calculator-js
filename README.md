@@ -1,5 +1,7 @@
 # calculator-js
 
+Demo: https://operator-19.github.io/calculator-js/
+
 This code implements a simple calculator using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 The calculator consists of two display screens - one to show the current input and another to show the previous input and the operator used. The user can enter numbers using the number buttons and perform operations using the operator buttons. The decimal button allows the user to add decimal points to the current input.
